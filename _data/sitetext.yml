@@ -1,7 +1,7 @@
 header:
     title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    text: We fix RVs and buses.
+    button: Looks interesting. Tell me more!
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
@@ -93,8 +93,6 @@ team:
             icon: fab fa-twitter
           - url: https://facebook.com
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
       - name: "Larry Parker"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
