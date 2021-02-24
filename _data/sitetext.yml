@@ -1,6 +1,6 @@
 header:
-    title: Welcome to ManaKai Rv!
-    text: Maintenance And Repair.
+    title: Welcome to ManaKai.RV!
+    text: RV Maintenance And Repair.
     button: Looks interesting. Tell me more!
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
@@ -9,9 +9,9 @@ services:
     text: "The things we give you."
     section: services
     list:
-      - title: "We repair a lot"
-        desc: "We fix roof leaks, toilets, slide-out restoration, fridge and water heater repair, and [more](/services)" 
-        icon: fas fa-tools
+      - title: "Mobile Repair"
+        desc: "We are mobile. We're ready. We are close." 
+        icon: fas fa-cogs
     
       - title: "We repair a lot"
         desc: "We fix roof leaks, toilets, slide-out restoration, fridge and water heater repair, and [more](/services)" 
@@ -29,7 +29,7 @@ portfolio:
           
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: ""
     section: contact
     
 footer:
