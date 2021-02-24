@@ -1,5 +1,5 @@
 header:
-    title: Welcome to our Studio!
+    title: Welcome to ManaKai Rv!
     text: We fix RVs and buses.
     button: Looks interesting. Tell me more!
     buttonlink: "#services" # "#{section}" or "URL/page link"
