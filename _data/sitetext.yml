@@ -11,10 +11,10 @@ services:
     list:
       - title: "Fixing at the place it is"
         desc: "Mobile. We come to your place. "
-        icon: fas caravan #find more at https://fontawesome.com/icons
+        icon: fas fa-caravan #find more at https://fontawesome.com/icons
       - title: "We repair a lot"
         desc: "We fix roof leaks, toilets, slide-out restoration, fridge and water heater repair, and [more](/services)" 
-        icon: fas tools      
+        icon: fas fa-tools      
       - title: ""
         desc: ""
         icon: fab fa-markdown
